@@ -1,0 +1,12 @@
+C:\Users\admin\Desktop\DAM\Secure-Code\ConectarSQL\Conexion\obj\Debug\Conexion.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\DAM\Secure-Code\ConectarSQL\Conexion\obj\Debug\Conexion.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\DAM\Secure-Code\ConectarSQL\Conexion\bin\Debug\Conexion.dll
+C:\Users\admin\Desktop\DAM\Secure-Code\ConectarSQL\Conexion\bin\Debug\Conexion.pdb
+C:\Users\admin\Desktop\DAM\Secure-Code\ConectarSQL\Conexion\obj\Debug\Conexion.dll
+C:\Users\admin\Desktop\DAM\Secure-Code\ConectarSQL\Conexion\obj\Debug\Conexion.pdb
+C:\Users\admin\Desktop\ConectarSQL\Conexion\bin\Debug\Conexion.dll
+C:\Users\admin\Desktop\ConectarSQL\Conexion\bin\Debug\Conexion.pdb
+C:\Users\admin\Desktop\ConectarSQL\Conexion\obj\Debug\Conexion.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\ConectarSQL\Conexion\obj\Debug\Conexion.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ConectarSQL\Conexion\obj\Debug\Conexion.dll
+C:\Users\admin\Desktop\ConectarSQL\Conexion\obj\Debug\Conexion.pdb

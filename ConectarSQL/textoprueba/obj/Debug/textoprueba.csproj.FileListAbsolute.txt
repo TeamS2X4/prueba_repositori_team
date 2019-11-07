@@ -1,0 +1,6 @@
+C:\Users\admin\Desktop\DAM\Secure-Code\ConectarSQL\textoprueba\bin\Debug\textoprueba.dll
+C:\Users\admin\Desktop\DAM\Secure-Code\ConectarSQL\textoprueba\bin\Debug\textoprueba.pdb
+C:\Users\admin\Desktop\DAM\Secure-Code\ConectarSQL\textoprueba\obj\Debug\textoprueba.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\DAM\Secure-Code\ConectarSQL\textoprueba\obj\Debug\textoprueba.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\DAM\Secure-Code\ConectarSQL\textoprueba\obj\Debug\textoprueba.dll
+C:\Users\admin\Desktop\DAM\Secure-Code\ConectarSQL\textoprueba\obj\Debug\textoprueba.pdb
